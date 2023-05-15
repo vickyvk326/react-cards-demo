@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-cards-demo/static/css/main.67f366a0.css",
+    "main.js": "/react-cards-demo/static/js/main.c007f5cc.js",
+    "static/media/gokul.jpg": "/react-cards-demo/static/media/gokul.dae3abcb7b5cf509c2d1.jpg",
+    "static/media/me.jpeg": "/react-cards-demo/static/media/me.80ffca8c9725ca3b4606.jpeg",
+    "static/media/yoki.jpg": "/react-cards-demo/static/media/yoki.af8b3bf6aca7fbc058b9.jpg",
+    "static/media/shankar.jpg": "/react-cards-demo/static/media/shankar.0b7b50e7b6018119f380.jpg",
+    "index.html": "/react-cards-demo/index.html",
+    "main.67f366a0.css.map": "/react-cards-demo/static/css/main.67f366a0.css.map",
+    "main.c007f5cc.js.map": "/react-cards-demo/static/js/main.c007f5cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67f366a0.css",
+    "static/js/main.c007f5cc.js"
+  ]
+}
